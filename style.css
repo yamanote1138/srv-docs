@@ -1,0 +1,42 @@
+
+a:active { color: #ff6600; font-size: 10pt; font-family: arial, helvetica, sansserif; text-style: underline  }
+a:hover { color: #ff6347; font-size: 10pt; font-family: arial, helvetica, sansserif; text-style: underline  }
+a:link { color: #660000; font-size: 10pt; font-family: arial, helvetica, sansserif; text-style: underline  }
+a:visited { color: #666666; font-size: 10pt; font-family: arial, helvetica, sansserif; text-style: underline  }
+b { font-weight: bold; font-size: 11pt; font-family: arial, helvetica, sansserif }
+body { color: #000066; font-size: 10pt; font-family: arial, helvetica, sansserif }
+caption { color: #000; font-weight: bold; font-size: 14pt; font-family: arial, helvetica, sansserif; text-decoration: none }
+div { color: #000066; font-size: 10pt; font-family: arial, helvetica, sansserif }
+h1 { color: #000066; font-size: 18pt; font-family: arial, helvetica, sansserif }
+h2 { color: #000066; font-size: 14pt; font-family: arial, helvetica, sansserif }
+h3 { color: #000066; font-size: 12pt; font-family: arial, helvetica, sansserif }
+i { font: 10pt arial, helvetica, sansserif }
+input { font: 10pt Arial, Helvetica, sans-serif; width: 130px }
+li { color: #000066; font-size: 10pt; font-family: arial, helvetica, sansserif }
+p { color: #000066; font-size: 10pt; font-family: arial, helvetica, sansserif }
+superheader { color: #000000; font-size: 22pt; font-family: arial, helvetica, sansserif; text-decoration: none }
+td { color: #000066; font-size: 10pt; font-family: arial, helvetica, sansserif }
+tt { color: #000066; font-size: 8pt; font-family: arial, helvetica, sansserif; text-decoration: none }
+ul { color: #000066; font-size: 10pt; font-family: arial, helvetica, sansserif }
+
+/*
+     FILE ARCHIVED ON 01:57:59 Oct 05, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:26:50 Jan 11, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 247.275 (3)
+  load_resource: 203.873
+  captures_list: 300.528
+  exclusion.robots: 0.323
+  esindex: 0.027
+  exclusion.robots.policy: 0.301
+  RedisCDXSource: 29.277
+  PetaboxLoader3.resolve: 128.966
+  CDXLines.iter: 18.708 (3)
+  PetaboxLoader3.datanode: 259.582 (4)
+*/
